@@ -1,0 +1,367 @@
+[enu default]
+
+// Doom Level names
+HUSTR_1 = "Hangar";
+HUSTR_2 = "Plant";
+HUSTR_3 = "Toxin Refinery";
+HUSTR_4 = "Command Control";
+HUSTR_5 = "Phobos Lab";
+HUSTR_6 = "Central Processing";
+HUSTR_7 = "Computer Station";
+HUSTR_8 = "Phobos Anomaly";
+HUSTR_9 = "Deimos Anomaly";
+HUSTR_10 = "Containment Area";
+HUSTR_11 = "Refinery";
+HUSTR_12 = "Deimos Lab";
+HUSTR_13 = "Command Center";
+HUSTR_14 = "Halls of the Damned";
+HUSTR_15 = "Spawning Vats";
+HUSTR_16 = "Hell Gate";
+HUSTR_17 = "Hell Keep";
+HUSTR_18 = "Pandemonium";
+HUSTR_19 = "House of Pain";
+HUSTR_20 = "Unholy Cathedral";
+HUSTR_21 = "Mt. Erebus";
+HUSTR_22 = "Limbo";
+HUSTR_23 = "Tower of Babel";
+HUSTR_24 = "Hell Beneath";
+HUSTR_25 = "Perfect Hatred";
+HUSTR_26 = "Sever The Wicked";
+HUSTR_27 = "Unruly Evil";
+HUSTR_28 = "Unto The Cruel";
+HUSTR_29 = "Twilight Descends";
+HUSTR_30 = "Threshold of Pain";
+HUSTR_31 = "Entryway";
+HUSTR_32 = "Underhalls";
+HUSTR_33 = "The Gantlet";
+HUSTR_34 = "The Focus";
+HUSTR_35 = "The Waste Tunnels";
+HUSTR_36 = "The Crusher";
+HUSTR_37 = "Dead Simple";
+HUSTR_38 = "Tricks And Traps";
+HUSTR_39 = "The Pit";
+HUSTR_40 = "Refueling Base";
+HUSTR_41 = "O of Destruction!";
+HUSTR_42 = "The Factory";
+HUSTR_43 = "The Inmost Dens";
+HUSTR_44 = "Suburbs";
+HUSTR_45 = "Tenements";
+HUSTR_46 = "The Courtyard";
+HUSTR_47 = "The Citadel";
+HUSTR_48 = "Nirvana";
+HUSTR_49 = "The Catacombs";
+HUSTR_50 = "Barrels of Fun";
+HUSTR_51 = "Bloodfalls";
+HUSTR_52 = "The Abandoned Mines";
+HUSTR_53 = "Monster Condo";
+HUSTR_54 = "Redemption Denied";
+HUSTR_55 = "Fortress of Mystery";
+HUSTR_56 = "The Military Base";
+HUSTR_57 = "The Marshes";
+HUSTR_58 = "The Mansion";
+HUSTR_59 = "Club Doom";
+HUSTR_60 = "Fear";
+
+// Final Doom Level Names
+FHUSTR_1 = "Attack";
+FHUSTR_2 = "Virgil";
+FHUSTR_3 = "Canyon";
+FHUSTR_4 = "Combine";
+FHUSTR_5 = "Catwalk";
+FHUSTR_6 = "Fistula";
+FHUSTR_7 = "Geryon";
+FHUSTR_8 = "Minos";
+FHUSTR_9 = "Nessus";
+FHUSTR_10 = "Paradox";
+FHUSTR_11 = "Subspace";
+FHUSTR_12 = "Subterra";
+FHUSTR_13 = "Vesperas";
+FHUSTR_14 = "System Control";
+FHUSTR_15 = "Human Barbecue";
+FHUSTR_16 = "Wormhole";
+FHUSTR_17 = "Crater";
+FHUSTR_18 = "Nukage Processing";
+FHUSTR_19 = "Deepest Reaches";
+FHUSTR_20 = "Processing Area";
+FHUSTR_21 = "Lunar Mining Project";
+FHUSTR_22 = "Quarry";
+FHUSTR_23 = "Ballistyx";
+FHUSTR_24 = "Heck";
+FHUSTR_25 = "Congo";
+FHUSTR_26 = "Aztec";
+FHUSTR_27 = "Ghost Town";
+FHUSTR_28 = "Baron's Lair";
+FHUSTR_29 = "The Death Domain";
+FHUSTR_30 = "Onslaught";
+
+// Lost Levels names
+LHUSTR_1  = "Forsaken Keep";
+LHUSTR_2  = "Slough of Despair";
+LHUSTR_3  = "They Will Repent";
+LHUSTR_4  = "Against Thee Wickedly";
+LHUSTR_5  = "And Hell Followed";
+LHUSTR_6  = "Dis";
+
+LHUSTR_7  = "Downtown";
+LHUSTR_8  = "Industrial Zone";
+LHUSTR_9  = "Gotcha!";
+LHUSTR_10 = "The Chasm";
+LHUSTR_11 = "The Spirit World";
+LHUSTR_12 = "The Living End";
+
+LHUSTR_13 = "Garrison";
+LHUSTR_14 = "Titan Manor";				// should this stay Titan Manor?
+LHUSTR_15 = "Titan Trap";
+LHUSTR_16 = "Bloodsea";
+LHUSTR_17 = "Mephisto";
+LHUSTR_18 = "Black Tower";
+LHUSTR_19 = "Elevator to Hell";
+
+LHUSTR_20 = "Power Control";
+LHUSTR_21 = "Hanger";
+LHUSTR_22 = "Open Season";
+LHUSTR_23 = "Prison";
+LHUSTR_24 = "Metal";
+LHUSTR_25 = "Stronghold";
+LHUSTR_26 = "Redemption";
+LHUSTR_27 = "Storage Facility";
+LHUSTR_28 = "Steel Works";
+LHUSTR_29 = "Dead Zone";
+LHUSTR_30 = "Mill";
+LHUSTR_31 = "Shipping/Respawning";
+LHUSTR_32 = "Central Processing";
+LHUSTR_33 = "Administration Center";
+LHUSTR_34 = "Habitat";
+LHUSTR_35 = "Baron's Den";
+LHUSTR_36 = "Mount Pain";
+LHUSTR_37 = "River Styx";
+LHUSTR_61A = "Last Call";
+
+LHUSTR_38 = "Well of Souls";
+LHUSTR_39 = "Caged";
+LHUSTR_40 = "Caughtyard";
+LHUSTR_41 = "Realm";
+LHUSTR_42 = "Abattoire";
+LHUSTR_43 = "Hunted";				// "Boned" heh
+LHUSTR_44 = "Speed";
+LHUSTR_45 = "The Crypt";
+LHUSTR_46 = "Genesis";
+LHUSTR_47 = "The Twilight";
+LHUSTR_48 = "The Omen";
+LHUSTR_49 = "Compound";
+LHUSTR_50 = "Neurosphere";
+LHUSTR_51 = "NME";
+LHUSTR_52 = "Slayer";
+LHUSTR_53 = "Impossible Mission";
+LHUSTR_54 = "Tombstone";
+LHUSTR_55 = "The Final Frontier";
+LHUSTR_56 = "Temple of Darkness";
+LHUSTR_57 = "Bunker";
+LHUSTR_58 = "Anti-Christ";
+LHUSTR_59 = "The Sewers";
+LHUSTR_60 = "Odyssey of Noises";
+LHUSTR_61B = "Gateway Of Hell";
+
+LHUSTR_61C = "Icon of Sin";
+
+LHUSTR_62 = "Warrens";
+
+LHUSTR_63 = "Sewers";
+
+LHUSTR_64 = "Fear";
+
+LHUSTR_65 = "Betray";
+
+LHUSTR_66 = "WOLFENSTINE";
+LHUSTR_67 = "GROSSE";
+
+LHUSTR_68 = "Bad Dream";
+
+LHUSTR_69 = "Pharaoh";
+LHUSTR_70 = "Caribbean";
+
+LHUSTR_71 = "Cyberden";
+LHUSTR_72 = "Go 2 It";
+
+//NRFTL names
+NHUSTR_01 = "Earth Base";
+NHUSTR_02 = "Pain Labs";
+NHUSTR_03 = "Canyon Of The Dead";
+NHUSTR_04 = "Hell Mountain";
+NHUSTR_05 = "Vivisection";
+NHUSTR_06 = "Inferno Of Blood";
+NHUSTR_07 = "Baron's Banquet";
+NHUSTR_08 = "Tomb Of Malevolence";
+NHUSTR_09 = "March Of The Demons";
+
+//Nightmare Obituaray
+
+OB_NMSPECTREHIT = "%o was devoured by a nightmare spectre.";
+OB_NMIMPHIT = "%o was tramatized by a nightmareimp";
+OB_NMIMP = "%o was incinerated by a torturous ball of fiery nightmares";
+// Menu
+MNU_DOOM			= "Ultimate Doom";
+MNU_DOOM2			= "Doom II";
+MNU_MASTER			= "Master Levels";
+MNU_TNT				= "TNT";
+MNU_PLUTONIA		= "Plutonia";
+MNU_LOST 			= "Lost Levels";
+MNU_NRFTL 			= "No Rest For The Living";
+
+
+//Cast
+CC_NIGHT = "NIGHTMARESPECTRE";
+CC_NIGHTI = "NIGHTMAREIMP";
+
+PSXTITLE = "TITLE";
+INTERMUS = "INTER";
+PSXCRDTS = "CRDTS";
+MAPMUS_1 = "PSX01";
+MAPMUS_2 = "PSX02";
+MAPMUS_3 = "PSX03";
+MAPMUS_4 = "PSX04";
+MAPMUS_5 = "PSX05";
+MAPMUS_6 = "PSX06";
+MAPMUS_7 = "PSX07";
+MAPMUS_8 = "PSX08";
+MAPMUS_9 = "PSX09";
+MAPMUS_10 = "PSX10";
+MAPMUS_11 = "PSX11";
+MAPMUS_12 = "PSX12";
+MAPMUS_13 = "PSX13";
+MAPMUS_14 = "PSX02";
+MAPMUS_15 = "PSX01";
+MAPMUS_16 = "PSX14";
+MAPMUS_17 = "PSX15";
+MAPMUS_18 = "PSX16";
+MAPMUS_19 = "PSX06";
+MAPMUS_20 = "PSX17";
+MAPMUS_21 = "PSX18";
+MAPMUS_22 = "PSX19";
+MAPMUS_23 = "PSX03";
+MAPMUS_24 = "PSX20";
+MAPMUS_25 = "PSX09";
+MAPMUS_26 = "PSX07";
+MAPMUS_27 = "PSX04";
+MAPMUS_28 = "PSX05";
+MAPMUS_29 = "PSX12";
+MAPMUS_30 = "PSX13";
+MAPMUS_31 = "PSX01";
+MAPMUS_32 = "PSX10";
+MAPMUS_33 = "PSX19";
+MAPMUS_34 = "PSX14";
+MAPMUS_35 = "PSX08";
+MAPMUS_36 = "PSX18";
+MAPMUS_37 = "PSX17";
+MAPMUS_38 = "PSX20";
+MAPMUS_39 = "PSX11";
+MAPMUS_40 = "PSX13";
+MAPMUS_41 = "PSX09";
+MAPMUS_42 = "PSX15";
+MAPMUS_43 = "PSX14";
+MAPMUS_44 = "PSX16";
+MAPMUS_45 = "PSX06";
+MAPMUS_46 = "PSX05";
+MAPMUS_47 = "PSX10";
+MAPMUS_48 = "PSX02";
+MAPMUS_49 = "PSX03";
+MAPMUS_50 = "PSX01";
+MAPMUS_51 = "PSX07";
+MAPMUS_52 = "PSX08";
+MAPMUS_53 = "PSX11";
+MAPMUS_54 = "PSX04";
+MAPMUS_55 = "PSX16";
+MAPMUS_56 = "PSX17";
+MAPMUS_57 = "PSX12";
+MAPMUS_58 = "PSX15";
+MAPMUS_59 = "PSX18";
+MAPMUS_60 = "PSX03";
+CLUBDOOM = "CLUBD";
+DEND_1 = "PSEND1";
+DEND_2 = "PSEND2";
+
+// Final Doom Level MUSIC
+
+FINTITLE = "TITLE";
+FINTERMUS = "INTER";
+FMAPMUS_1 = "FIN01";
+FMAPMUS_2 = "FIN02";
+FMAPMUS_3 = "FIN03";
+FMAPMUS_4 = "FIN04";
+FMAPMUS_5 = "FIN05";
+FMAPMUS_6 = "FIN06";
+FMAPMUS_7 = "FIN07";
+FMAPMUS_8 = "FIN08";
+FMAPMUS_9 = "FIN09";
+FMAPMUS_10 = "FIN10";
+FMAPMUS_11 = "PSX01";
+FMAPMUS_12 = "PSX02";
+FMAPMUS_13 = "PSX03";
+FMAPMUS_14 = "PSX04";
+FMAPMUS_15 = "PSX05";
+FMAPMUS_16 = "PSX06";
+FMAPMUS_17 = "PSX07";
+FMAPMUS_18 = "PSX08";
+FMAPMUS_19 = "PSX10";
+FMAPMUS_20 = "PSX12";
+FMAPMUS_21 = "PSX09";
+FMAPMUS_22 = "PSX14";
+FMAPMUS_23 = "PSX18";
+FMAPMUS_24 = "PSX19";
+FMAPMUS_25 = "PSX11";
+FMAPMUS_26 = "PSX15";
+FMAPMUS_27 = "PSX16";
+FMAPMUS_28 = "PSX17";
+FMAPMUS_29 = "FIN09";
+FMAPMUS_30 = "FIN10";
+DEND_3 = "FINEND";
+DEND_4 = "FINEND";
+DEND_5 = "FINEND";
+CASTMUS = "FINEND";
+
+DEND_5 = "LLEND";
+LOSTTITLE = "LTITLE";
+LINTERMUS = "LSTINT";
+LMAPMUS_1 = "LMUS01";
+LMAPMUS_6 = "LMUS22";
+LMAPMUS_9 = "LMUS02";
+LMAPMUS_11 = "LMUS03";
+LMAPMUS_14 = "LMUS13";
+LMAPMUS_17 = "LMUS04";
+LMAPMUS_17D = "LMUS04";
+LMAPMUS_19 = "LMUS05";
+LMAPMUS_26 = "LMUS21";
+LMAPMUS_28 = "LMUS06";
+LMAPMUS_29 = "LMUS11";
+LMAPMUS_31 = "LMUS07";
+LMAPMUS_34 = "LMUS16";
+LMAPMUS_36 = "LMUS08";
+LMAPMUS_37 = "LMUS09";
+LMAPMUS_42 = "LMUS10";
+LMAPMUS_44 = "LMUS04";
+LMAPMUS_45 = "LMUS17";
+LMAPMUS_52 = "LMUS15";
+LMAPMUS_53 = "LMUS14";
+LMAPMUS_58 = "LMUS18";
+LMAPMUS_60 = "LMUS19";
+LMAPMUS_61A = "LMUS04";
+LMAPMUS_61C = "LMUS22";
+LMAPMUS_62 = "LMUS01";
+LMAPMUS_64 = "LMUS11";
+LMAPMUS_66 = "LMUS12";
+LMAPMUS_71 = "LMUS15";
+LMAPMUS_72 = "LMUS22";
+DEND_6 = "LLEND";
+//CASTMUS = "LLEND";
+
+NRFTINTER = "INTER";
+NRFTMUS_1 = "PSX08";
+NRFTMUS_2 = "PSX20";
+NRFTMUS_3 = "PSX05";
+NRFTMUS_4 = "PSX17";
+NRFTMUS_5 = "PSX11";
+NRFTMUS_6 = "PSX18";
+NRFTMUS_7 = "PSX09";
+NRFTMUS_8 = "PSX04";
+NRFTMUS_9 = "PSX14";
+DEND_7 = "FINEND";

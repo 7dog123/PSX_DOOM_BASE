@@ -1,0 +1,27 @@
+// Boss Eye Monster Spawner
+
+actor PSXBossEye : BossEye replaces BossEye
+{
+  DropItem "DoomImp" 		255 50
+  DropItem "NightmareImp"	255 40
+  DropItem "Demon"		255 40
+  DropItem "Spectre"		255 30
+  DropItem "NightmareSpectre"		255  30
+  DropItem "PainElemental"	255 10
+  DropItem "Cacodemon"		255 30
+  DropItem "Archvile"		255 2
+  DropItem "Revenant"		255 10
+  DropItem "Arachnotron"	255 20
+  DropItem "Fatso"		255 30
+  DropItem "HellKnight"		255 24
+  DropItem "BaronOfHell"	255 10
+}
+
+// Cacospectre
+
+Actor CacoSpectre : Cacodemon_ 3011
+{
+	RenderStyle Translucent
+	Alpha 0.5
+	Scale 0.92
+}

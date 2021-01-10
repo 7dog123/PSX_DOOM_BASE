@@ -1,0 +1,13 @@
+/*****************************************************************************************
+DECORATION
+*****************************************************************************************/
+
+Actor PSXEvilEye : EvilEye Replaces EvilEye { Scale 0.92 }
+Actor PSXFloatingSkull : FloatingSkull Replaces FloatingSkull { Scale 0.92 }
+Actor PSXHeadCandles : HeadCandles Replaces HeadCandles { Scale 0.92 }
+Actor PSXHeartColumn : HeartColumn Replaces HeartColumn { Scale 0.92 }
+Actor PSXSkullColumn : SkullColumn Replaces SkullColumn { Scale.92 }
+Actor PSXTallGreenColumn : TallGreenColumn Replaces TallGreenColumn { Scale 0.92 }
+Actor PSXTallRedColumn : TallRedColumn Replaces TallRedColumn { Scale 0.92 }
+Actor PSXShortGreenColumn : ShortGreenColumn Replaces ShortGreenColumn { Scale 0.92 }
+Actor PSXShortRedColumn : ShortRedColumn Replaces ShortRedColumn { Scale 0.92 }

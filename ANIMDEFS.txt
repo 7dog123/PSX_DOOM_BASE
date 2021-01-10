@@ -1,0 +1,1906 @@
+texture FIRESK00
+pic 1 tics 2
+pic 2 tics 2
+pic 3 tics 2
+pic 4 tics 2
+pic 5 tics 2
+pic 6 tics 2
+pic 7 tics 2
+pic 8 tics 2
+pic 9 tics 2
+pic 10 tics 2
+pic 11 tics 2
+pic 12 tics 2
+pic 13 tics 2
+pic 14 tics 2
+pic 15 tics 2
+pic 16 tics 2
+pic 17 tics 2
+pic 18 tics 2
+pic 19 tics 2
+pic 20 tics 2
+pic 21 tics 2
+pic 22 tics 2
+pic 23 tics 2
+pic 24 tics 2
+pic 25 tics 2
+pic 26 tics 2
+pic 27 tics 2
+pic 28 tics 2
+pic 29 tics 2
+pic 30 tics 2
+pic 31 tics 2
+pic 32 tics 2
+pic 33 tics 2
+pic 34 tics 2
+pic 35 tics 2
+pic 36 tics 2
+pic 37 tics 2
+pic 38 tics 2
+pic 39 tics 2
+pic 40 tics 2
+pic 41 tics 2
+pic 42 tics 2
+pic 43 tics 2
+pic 44 tics 2
+pic 45 tics 2
+pic 46 tics 2
+pic 47 tics 2
+pic 48 tics 2
+pic 49 tics 2
+pic 50 tics 2
+pic 51 tics 2
+pic 52 tics 2
+pic 53 tics 2
+pic 54 tics 2
+pic 55 tics 2
+pic 56 tics 2
+pic 57 tics 2
+pic 58 tics 2
+pic 59 tics 2
+pic 60 tics 2
+pic 61 tics 2
+pic 62 tics 2
+pic 63 tics 2
+pic 64 tics 2
+pic 65 tics 2
+pic 66 tics 2
+pic 67 tics 2
+pic 68 tics 2
+pic 69 tics 2
+pic 70 tics 2
+pic 71 tics 2
+pic 72 tics 2
+pic 73 tics 2
+pic 74 tics 2
+pic 75 tics 2
+pic 76 tics 2
+pic 77 tics 2
+pic 78 tics 2
+pic 79 tics 2
+pic 80 tics 2
+pic 81 tics 2
+pic 82 tics 2
+pic 83 tics 2
+pic 84 tics 2
+pic 85 tics 2
+pic 86 tics 2
+pic 87 tics 2
+pic 88 tics 2
+pic 89 tics 2
+pic 90 tics 2
+pic 91 tics 2
+pic 92 tics 2
+pic 93 tics 2
+pic 94 tics 2
+pic 95 tics 2
+pic 96 tics 2
+pic 97 tics 2
+pic 98 tics 2
+pic 99 tics 2
+pic 100 tics 2
+
+texture 64DOOR01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture 64DOOR10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture 64DOOR11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture 64DOOR12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture 64DOOR13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BLUE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BLUE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BOOKS01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK11A allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRICK17 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BRONZE12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN05A allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture BROWN12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CEMENT01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CEMENT02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CEMENT03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CEMENT04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CEMENT05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP17 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP18 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP19 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMP20 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture COMPTALL allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CRATE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CRATE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture CRATINY allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR3 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture DOOR06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ENERGY01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+texture EXIT allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture FACE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture FACE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture FACE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture FIRE01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+
+texture FLAME01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+
+texture GORE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GORE10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREEN01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREEN02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREEN03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREEN04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY17 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY18 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY19 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY21 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY22 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY23 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY24 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY25 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY26 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GREY27 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GUTS01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture GUTS02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture HEAD06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture IDWALL allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LAVAW01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LAVAW02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LAVWAL01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+
+texture LITE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LITE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKBLU1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKBLU2 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKRED1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKRED2 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKYEL1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture LOCKYEL2 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture MARBLE11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture METAL15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture NUKE24 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PIPE08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PLAST01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PLAST02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture PLAT01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture REDBR01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture REDROK01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK17 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK18 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK19 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK20 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK21 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK22 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK23 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK24 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCK25 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture ROCKS allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SFALL1 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+texture SKIN01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SKIN09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SLIM01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+
+
+texture STEEL01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEEL07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STEP6 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STONE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STONE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STONE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture STONE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture SUPPORT1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture TVSNOW01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+
+Texture VBRICK08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VBRICK16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VBRICK18 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VBRICK19 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VBRICK20 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VBRICK21 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VINE3 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VINE4 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+Texture VINE5 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL17 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL18 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL19 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL20 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL21 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL22 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL23 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL24 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL25 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL26 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL27 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL28 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL29 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL30 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL31 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL32 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WALL33 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WARN01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+
+texture WINDOW01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WINDOW10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WMSWALL allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+texture WOOD09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRIK09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN10 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN11 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN12 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN13 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN14 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN15 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BRN16 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat BSLIME01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+flat CARPET01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat CLUBTILE allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat CMENT allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat CSLIME01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+flat ENERG01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+flat GATE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GATE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GATE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GATE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GATE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GLOW01 allowdecals
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+pic 3 tics 9
+
+flat GLOW02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GLOW03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GLOW04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRASS01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRASS02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRASS03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRASS04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRATE allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRAY08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GRNLITE1 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GUT01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat GUT02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LAVA01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+flat LIGHT01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LIGHT02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LIGHT03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LIGHT04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LIGHT05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat LIGHT06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MARB01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MET01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MET02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MET03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MET04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat MET05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat METX01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat METX02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat METX03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat RED allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat ROK08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat SLIME01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+
+flat STEEL allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat STEP01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat STEP02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat STEP6
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE03 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE04 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE05 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE06 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE07 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE08 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat TILE09 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat WATER01 allowdecals
+pic 1 tics 9
+pic 2 tics 9
+pic 3 tics 9
+pic 4 tics 9
+
+flat WMSGATE allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat WOODX01 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+flat WOODX02 allowdecals
+pic 1 tics 9
+pic 1 tics 9
+
+switch SW1BMET on sound switch1 pic SW2BMET tics 0
+switch SW2BMET off sound switch2 pic SW1BMET tics 0
+
+switch SW1BRICK on sound switch1 pic SW2BRICK tics 0
+switch SW2BRICK off sound switch2 pic SW1BRICK tics 0
+
+switch SW1BRNZ on sound switch1 pic SW2BRNZ tics 0
+switch SW2BRNZ off sound switch2 pic SW1BRNZ tics 0
+
+switch SW1BROWN on sound switch1 pic SW2BROWN tics 0
+switch SW2BROWN off sound switch2 pic SW1BROWN tics 0
+
+switch SW1MARB on sound switch1 pic SW2MARB tics 0
+switch SW2MARB off sound switch2 pic SW1MARB tics 0
+
+switch SW1MET on sound switch1 pic SW2MET tics 0
+switch SW2MET off sound switch2 pic SW1MET tics 0
+
+switch SW1METAL on sound switch1 pic SW2METAL tics 0
+switch SW2METAL off sound switch2 pic SW1METAL tics 0
+
+switch SW1NEW02 on sound switch1 pic SW2NEW02 tics 0
+switch SW2NEW02 off sound switch2 pic SW1NEW02 tics 0
+
+switch SW1NEW03 on sound switch1 pic SW2NEW03 tics 0
+switch SW2NEW03 off sound switch2 pic SW1NEW03 tics 0
+
+switch SW1NEW04 on sound switch1 pic SW2NEW04 tics 0
+switch SW2NEW04 off sound switch2 pic SW1NEW04 tics 0
+
+switch SW1NEW05 on sound switch1 pic SW2NEW05 tics 0
+switch SW2NEW05 off sound switch2 pic SW1NEW05 tics 0
+
+switch SW1NEW06 on sound switch1 pic SW2NEW06 tics 0
+switch SW2NEW06 off sound switch2 pic SW1NEW06 tics 0
+
+switch SW1NEW10 on sound switch1 pic SW2NEW10 tics 0
+switch SW2NEW10 off sound switch2 pic SW1NEW10 tics 0
+
+switch SW1NEW11 on sound switch1 pic SW2NEW11 tics 0
+switch SW2NEW11 off sound switch2 pic SW1NEW11 tics 0
+
+switch SW1NEW13 on sound switch1 pic SW2NEW13 tics 0
+switch SW2NEW13 off sound switch2 pic SW1NEW13 tics 0
+
+switch SW1NEW14 on sound switch1 pic SW2NEW14 tics 0
+switch SW2NEW14 off sound switch2 pic SW1NEW14 tics 0
+
+switch SW1NEW20 on sound switch1 pic SW2NEW20 tics 0
+switch SW2NEW20 off sound switch2 pic SW1NEW20 tics 0
+
+switch SW1NEW25 on sound switch1 pic SW2NEW25 tics 0
+switch SW2NEW25 off sound switch2 pic SW1NEW25 tics 0
+
+switch SW1NEW26 on sound switch1 pic SW2NEW26 tics 0
+switch SW2NEW26 off sound switch2 pic SW1NEW26 tics 0
+
+switch SW1NEW28 on sound switch1 pic SW2NEW28 tics 0
+switch SW2NEW28 off sound switch2 pic SW1NEW28 tics 0
+
+switch SW1NEW29 on sound switch1 pic SW2NEW29 tics 0
+switch SW2NEW29 off sound switch2 pic SW1NEW29 tics 0
+
+switch SW1NEW30 on sound switch1 pic SW2NEW30 tics 0
+switch SW2NEW30 off sound switch2 pic SW1NEW30 tics 0
+
+switch SW1NEW31 on sound switch1 pic SW2NEW31 tics 0
+switch SW2NEW31 off sound switch2 pic SW1NEW31 tics 0
+
+switch SW1NEW32 on sound switch1 pic SW2NEW32 tics 0
+switch SW2NEW32 off sound switch2 pic SW1NEW32 tics 0
+
+switch SW1NEW33 on sound switch1 pic SW2NEW33 tics 0
+switch SW2NEW33 off sound switch2 pic SW1NEW33 tics 0
+
+switch SW1NEW34 on sound switch1 pic SW2NEW34 tics 0
+switch SW2NEW34 off sound switch2 pic SW1NEW34 tics 0
+
+switch SW1NEW35 on sound switch1 pic SW2NEW35 tics 0
+switch SW2NEW35 off sound switch2 pic SW1NEW35 tics 0
+
+switch SW1NEW36 on sound switch1 pic SW2NEW36 tics 0
+switch SW2NEW36 off sound switch2 pic SW1NEW36 tics 0
+
+switch SW1NEW39 on sound switch1 pic SW2NEW39 tics 0
+switch SW2NEW39 off sound switch2 pic SW1NEW39 tics 0
+
+switch SW1NEW40 on sound switch1 pic SW2NEW40 tics 0
+switch SW2NEW40 off sound switch2 pic SW1NEW40 tics 0
+
+switch SW1NEW41 on sound switch1 pic SW2NEW41 tics 0
+switch SW2NEW41 off sound switch2 pic SW1NEW41 tics 0
+
+switch SW1NEW42 on sound switch1 pic SW2NEW42 tics 0
+switch SW2NEW42 off sound switch2 pic SW1NEW42 tics 0
+
+switch SW1NEW45 on sound switch1 pic SW2NEW45 tics 0
+switch SW2NEW45 off sound switch2 pic SW1NEW45 tics 0
+
+switch SW1NEW46 on sound switch1 pic SW2NEW46 tics 0
+switch SW2NEW46 off sound switch2 pic SW1NEW46 tics 0
+
+switch SW1NEW47 on sound switch1 pic SW2NEW47 tics 0
+switch SW2NEW47 off sound switch2 pic SW1NEW47 tics 0
+
+switch SW1NEW51 on sound switch1 pic SW2NEW51 tics 0
+switch SW2NEW51 off sound switch2 pic SW1NEW51 tics 0
+
+switch SW1NEW57 on sound switch1 pic SW2NEW57 tics 0
+switch SW2NEW57 off sound switch2 pic SW1NEW57 tics 0
+
+switch SW1NEW60 on sound switch1 pic SW2NEW60 tics 0
+switch SW2NEW60 off sound switch2 pic SW1NEW60 tics 0
+
+switch SW1NEW63 on sound switch1 pic SW2NEW63 tics 0
+switch SW2NEW63 off sound switch2 pic SW1NEW63 tics 0
+
+switch SW1NEW65 on sound switch1 pic SW2NEW65 tics 0
+switch SW2NEW65 off sound switch2 pic SW1NEW65 tics 0
+
+switch SW1NEW66 on sound switch1 pic SW2NEW66 tics 0
+switch SW2NEW66 off sound switch2 pic SW1NEW66 tics 0
+
+switch SW1NEW68 on sound switch1 pic SW2NEW68 tics 0
+switch SW2NEW68 off sound switch2 pic SW1NEW68 tics 0
+
+switch SW1NEW69 on sound switch1 pic SW2NEW69 tics 0
+switch SW2NEW69 off sound switch2 pic SW1NEW69 tics 0
+
+switch SW1NEW70 on sound switch1 pic SW2NEW70 tics 0
+switch SW2NEW70 off sound switch2 pic SW1NEW70 tics 0
+
+switch SW1NEW71 on sound switch1 pic SW2NEW71 tics 0
+switch SW2NEW71 off sound switch2 pic SW1NEW71 tics 0
+
+switch SW1RED on sound switch1 pic SW2RED tics 0
+switch SW2RED off sound switch2 pic SW1RED tics 0
+
+switch SW1RUST on sound switch1 pic SW2RUST tics 0
+switch SW2RUST off sound switch2 pic SW1RUST tics 0
+
+switch SW1SKULL on sound switch1 pic SW2SKULL tics 0
+switch SW2SKULL off sound switch2 pic SW1SKULL tics 0
+
+switch SW1SKUL2 on sound switch1 pic SW2SKUL2 tics 0
+switch SW2SKUL2 off sound switch2 pic SW1SKUL2 tics 0
+
+switch SW1STAR on sound switch1 pic SW2STAR tics 0
+switch SW2STAR off sound switch2 pic SW1STAR tics 0
+
+switch SW1STEEL on sound switch1 pic SW2STEEL tics 0
+switch SW2STEEL off sound switch2 pic SW1STEEL tics 0
+
+flat	BLOOD1  	range	BLOOD3  	tics 9
+flat	FWATER1 	range	FWATER4 	tics 9
+flat	LAVA1   	range	LAVA4		tics 9
+flat	NUKAGE1 	range	NUKAGE3 	tics 9
+flat	SLIME01 	range	SLIME03 	tics 9
+texture	BFALL1  	range	BFALL4  	tics 9
+texture	BLODRIP1	range	BLODRIP4	tics 9
+texture	FIREBLU1	range	FIREBLU2	tics 9
+texture	FIRELAV3	range	FIRELAVA	tics 9
+texture	FIREMAG1	range	FIREMAG3	tics 9
+texture	FIREWALA	range	FIREWALL	tics 9
+texture	GSTFONT1	range	GSTFONT3	tics 9
+texture	ROCKRED1	range	ROCKRED3	tics 9
+texture	SFALL1  	range	SFALL4  	tics 9
+texture	WFALL1  	range	WFALL4  	tics 9

@@ -1,0 +1,66 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "GZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP121
+	{
+		scriptcompiler = "zdoom_acs.cfg";
+		defaultfloortexture = "ROK02";
+		overrideceilheight = false;
+		
+		resources
+		{
+		}
+		defaulttoptexture = "MARBLE04";
+		overridemiddletexture = false;
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				type = 0;
+				lightcolor = 0;
+			}
+			
+			sidedef
+			{
+				offsetx_bottom = 1;
+				offsety_top = 1;
+				offsety_bottom = 1;
+				offsetx_top = 1;
+			}
+		}
+		viewpositionx = -1568f;
+		viewpositiony = 1000f;
+		viewscale = 0.0824669f;
+		overridefloortexture = false;
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 256f;
+		}
+		defaultceiltexture = "MARB01";
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overridetoptexture = false;
+		custombrightness = 196;
+		overrideceiltexture = false;
+		defaultwalltexture = "MARBLE04";
+		defaultbottomtexture = "MARBLE04";
+	}
+}

@@ -1,0 +1,135 @@
+/*
+Darragh: Need to reimplement these GLDEFS since the object names have changed.
+*/
+object PSXHeadCandles
+{
+    frame POL3 { light SKULLCANDLES }
+}
+
+object PSXHeartColumn
+{
+    frame COL5 { light 24SHADOW  }
+}
+
+object PSXSkullColumn
+{
+    frame COL6 { light 24SHADOW  }
+}
+
+object PSXTallGreenColumn
+{
+    frame COL1 { light 24SHADOW  }
+}
+
+object PSXTallRedColumn
+{
+    frame COL3 { light 24SHADOW  }
+}
+
+object PSXShortGreenColumn
+{
+    frame COL2 { light 24SHADOW  }
+}
+
+object PSXShortRedColumn
+{
+    frame COL4 { light 24SHADOW  }
+}
+
+/*
+Darragh:
+Extra effects for these furniture items for PSX Brutal Doom.
+*/
+object PSXEvilEye
+{
+    frame CEYEA0 { light SMALLGREENTORCH  }
+	frame CEYEB0 { light SMALLGREENTORCH  }
+	frame CEYEC0 { light SMALLGREENTORCH  }
+}
+
+object PSXFloatingSkull
+{
+    frame FSKUA0 { light SMALLREDTORCH  }
+	frame FSKUB0 { light SMALLREDTORCH  }
+	frame FSKUC0 { light SMALLREDTORCH  }
+}
+
+/*
+Darragh:
+Add in some extra glows around keys for PSX Brutal Doom.
+*/
+object RedCard
+{
+	frame RKEYA0 { light PSXBRUTAL_RED_KEY_A }
+	frame RKEYB0 { light PSXBRUTAL_RED_KEY_B }
+}
+object RedSkull
+{
+	frame RSKUA0 { light PSXBRUTAL_RED_KEY_A }
+	frame RSKUB0 { light PSXBRUTAL_RED_KEY_B }
+}
+object BlueCard
+{
+	frame BKEYA0 { light PSXBRUTAL_BLUE_KEY_A }
+	frame BKEYB0 { light PSXBRUTAL_BLUE_KEY_B }
+}
+object BlueSkull
+{
+	frame BSKUA0 { light PSXBRUTAL_BLUE_KEY_A }
+	frame BSKUB0 { light PSXBRUTAL_BLUE_KEY_B }
+}
+object YellowCard
+{
+	frame YKEYA0 { light PSXBRUTAL_YELLOW_KEY_A }
+	frame YKEYB0 { light PSXBRUTAL_YELLOW_KEY_B }
+}
+object YellowSkull
+{
+	frame YSKUA0 { light PSXBRUTAL_YELLOW_KEY_A }
+	frame YSKUB0 { light PSXBRUTAL_YELLOW_KEY_B }
+}
+
+pulselight PSXBRUTAL_YELLOW_KEY_A
+{
+    color 0.6 0.6 0.0
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+pulselight PSXBRUTAL_YELLOW_KEY_B
+{
+    color 0.8 0.8 0.0
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+
+pulselight PSXBRUTAL_RED_KEY_A
+{
+    color 0.6 0.0 0.0
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+pulselight PSXBRUTAL_RED_KEY_B
+{
+    color 0.8 0.0 0.0
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+
+pulselight PSXBRUTAL_BLUE_KEY_A
+{
+    color 0.0 0.0 0.6
+    size 16
+    secondarySize 18
+    interval 2.0
+}
+pulselight PSXBRUTAL_BLUE_KEY_B
+{
+    color 0.0 0.0 0.8
+    size 16
+    secondarySize 18
+    interval 2.0
+}

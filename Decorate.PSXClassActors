@@ -1,0 +1,25 @@
+Actor PSXDeadCacodemon : DeadCacodemon Replaces DeadCacodemon { Scale 0.92 }
+
+/*****************************************************************************************
+CAST
+*****************************************************************************************/
+
+Actor CastBaronOfHell : BaronOfHell {}
+Actor CastCacodemon : Cacodemon {}
+Actor CastChaingunGuy : ChaingunGuy {}
+Actor CastCyberdemon : Cyberdemon {}
+Actor CastDemon : Demon {}
+//Actor NightmareSpectre : Demon 3000 {}
+Actor CastDoomImp : DoomImp {}
+//Actor NightmareImp : Imp 3007
+Actor CastHellKnight : HellKnight {}
+Actor CastLostSoul : LostSoul {}
+Actor CastFatso : Fatso {}
+Actor CastSpiderMastermind : SpiderMastermind {}
+Actor CastPainElemental : PainElemental {}
+Actor CastDoomPlayer : DoomPlayer {}
+Actor CastRevenant : Revenant {}
+Actor CastShotgunGuy : ShotgunGuy {}
+Actor CastArachnotron : Arachnotron {}
+Actor CastZombieMan : ZombieMan {}
+Actor CastArchvile: Archvile {}
